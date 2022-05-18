@@ -18,7 +18,7 @@ From the analyis of the K elbow-curve, it's suggesting there are 4 or 5 clusters
 
 5.   Based on your findings, make a brief (1-2 sentences) recommendation to your clients. Can the cryptocurrencies be clustered together? If so, into how many clusters? 
 
-Based on my analysis, the cryptocurrencies can be clustered into 4 to 5 clusters.  Analysis from PCA using diffrent preservation % suggesed 4-5 clusters pretty consistently.  
+Based on my analysis, the cryptocurrencies can be clustered into 4 to 5 clusters.  Analysis from PCA using diffrent preservation % suggesed 4-5 clusters of currencies consistently.  
 
 
 
